@@ -113,7 +113,8 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://christinatsan.github.io/project/smartcane/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://christinatsan.github.io/img/user_smartcane.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://christinatsan.github.io/img/smartcane_render_new.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://christinatsan.github.io/img/user_smartcane.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The   CCNY SmartCane  system is a  robotic  white  cane  and  mobile  device navigation  software  for  visually  impaired  people.  The  system includes   software   for   Google   Tango   devices   that   utilizes simultaneous  localization  and  mapping  (SLAM)  to  plan  a  path and  guide  a  visually  impaired  user  to  waypoints  within  indoor environments. A control panel is mounted on the standard white cane  that  enables  visually  impaired  users  to  communicate  with the   navigation   software   and   is   additionally   used   to   provide navigation instructions via haptic feedback. Based on the motion-tracking  and  localization  capabilities  of  the  Google  Tango,  the SmartCane  is  able to  generate  a  safe  path  to  the  destination waypoint indicated by the user.&lt;/p&gt;
 </description>
