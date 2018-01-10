@@ -11,21 +11,50 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://christinatsan.github.io/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>A Hybrid Indoor Positioning System for the Blind and Visually Impaired Using Bluetooth and Google Tango</title>
+      <link>https://christinatsan.github.io/publication/hybrid/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://christinatsan.github.io/publication/person-re-identification/</guid>
+      <guid>https://christinatsan.github.io/publication/hybrid/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>https://christinatsan.github.io/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <title>A Recursive Framework for Expression Recognition: From Web Images to Deep Models to Game Dataset</title>
+      <link>https://christinatsan.github.io/publication/recursive/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://christinatsan.github.io/publication/clothing-search/</guid>
+      <guid>https://christinatsan.github.io/publication/recursive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CCNY SmartCane</title>
+      <link>https://christinatsan.github.io/publication/smartcane/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://christinatsan.github.io/publication/smartcane/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Interactive Facial Expression Training Platform for Individuals with Autism Spectrum Disorder</title>
+      <link>https://christinatsan.github.io/publication/emotrain/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://christinatsan.github.io/publication/emotrain/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards an In-the-Wild Emotion Dataset Using a Game-based Framework</title>
+      <link>https://christinatsan.github.io/publication/gamo/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://christinatsan.github.io/publication/gamo/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
