@@ -261,9 +261,14 @@
     
 
     <div class="article-style" itemprop="articleBody">
-      <p><img src="/img/emovip2.png" alt="" /></p>
+  
+<p>The Emo-VIP system is a real-time facial computing framework aimed at helping visually impaired people recognize the emotions of the people in close proximity to them. The framework consists of a (1) Face Mobile App which allows a user to capture camera feed of human faces, a (2) Web Service which handles all requests from the mobile app and (3) an Emotion Computing Server </p>    
 
-<p>The real-time facial computing project focuses on the design and implementation of an emotion-computing framework in order to help visually impaired people to be able to recognize the emotions of the people around them.</p>
+<p>The Face Mobile App (available on iOS + Android), utilizes OpenCV to perform face detection on the continuous feed from the mobile camera, and upon detection queries the server. The interface is designed with a visually impaired user in mind: allowing the user choose when to receive real-time notifications, includes screen gesture recognition for allowing the user to interact with the software, audio tunes for communicating the emotion information to the user, and haptic feedback for notifying the user when a face is detected.  </p>
+
+<p>The emotion recognition model on the server is based on a Convolutional Neural Network structure, which was trained on the Imagenet dataset and finetuned on our 15,000 candid image dataset. The framework works in real-time, capable of sending images to the server for analysis and receiving the results at 2fps, and the fine-tuned emotion model performs at an accuracy of 81%.  </p>
+
+<p><img src="/img/emovip2.png" alt="" /></p>
 
     </div>
 
